@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|c:\\drive_d\\back_end_test_automation\\exam_prep_i\\ideacenterexamprep\\ideacenterapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|solutionrelative:ideacenterapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|c:\\drive_d\\back_end_test_automation\\exam_prep_i\\ideacenterexamprep\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|solutionrelative:models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|c:\\drive_d\\back_end_test_automation\\exam_prep_i\\ideacenterexamprep\\models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|solutionrelative:models\\ideadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|c:\\drive_d\\back_end_test_automation\\exam_prep_i\\ideacenterexamprep\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8C65C4-E2D0-4604-BFA1-A60090EB9325}|IdeaCenterExamPrep.csproj|solutionrelative:using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Using.cs",
+              "DocumentMoniker": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Using.cs",
+              "RelativeDocumentMoniker": "Using.cs",
+              "ToolTip": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Using.cs",
+              "RelativeToolTip": "Using.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:08:23.168Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterApiTests.cs",
+              "DocumentMoniker": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\IdeaCenterApiTests.cs",
+              "RelativeDocumentMoniker": "IdeaCenterApiTests.cs",
+              "ToolTip": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\IdeaCenterApiTests.cs",
+              "RelativeToolTip": "IdeaCenterApiTests.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwMYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:03:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdeaDTO.cs",
+              "DocumentMoniker": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Models\\IdeaDTO.cs",
+              "RelativeDocumentMoniker": "Models\\IdeaDTO.cs",
+              "ToolTip": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Models\\IdeaDTO.cs",
+              "RelativeToolTip": "Models\\IdeaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:33:55.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Drive_D\\Back_End_Test_Automation\\EXAM_Prep_I\\IdeaCenterExamPrep\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:33:31.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
